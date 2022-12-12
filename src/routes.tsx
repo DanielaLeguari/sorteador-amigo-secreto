@@ -1,13 +1,15 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { RecoilRoot } from 'recoil';
-import { PaginaPadrao } from './Pages/PaginaPadrao';
+import { Home } from './Pages/Home';
+
 
 export const Router = () => {
     return (
         <BrowserRouter>
             <RecoilRoot>
                 <Routes>
-                    <Route path='/' element={<PaginaPadrao />} />
+                    <Route path='/' element={<Home />} />
+                   
                 </Routes>
             </RecoilRoot>
         </BrowserRouter>

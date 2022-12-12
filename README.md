@@ -8,8 +8,8 @@
  - React;
  - CSS Modules;
  - Recoil;
- - React router dom;
- - Testes com Jest
+ - react-router-dom;
+ - Testes react-testing-library
 
 
  ## Para executar a aplicação voce precisará:

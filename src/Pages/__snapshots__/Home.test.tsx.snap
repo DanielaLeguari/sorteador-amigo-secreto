@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`a pagina Home deve ser redenizada corretamente 1`] = `
+<div>
+  <header
+    class="cabecalho"
+  >
+    <div
+      aria-label="Logo do Sorteador"
+      class="imagemLogo"
+      role="img"
+    />
+    <img
+      alt="Participante com um presente na mão"
+      class="participante"
+      src="/imagens/participante.png"
+    />
+  </header>
+  <div
+    class="card"
+  >
+    <section>
+      <h2>
+        Vamos começar!
+      </h2>
+      <form>
+        <div
+          class="grupoInputBtn"
+        >
+          <input
+            placeholder="Insira os nomes dos participantes"
+            type="text"
+            value=""
+          />
+          <button
+            disabled=""
+          >
+            Adicionar
+          </button>
+        </div>
+        
+      </form>
+      <ul />
+      <footer
+        class="rodapeConfiguracoes"
+      >
+        <button
+          class="botao"
+          disabled=""
+        >
+          Iniciar brincadeira
+        </button>
+      </footer>
+    </section>
+  </div>
+</div>
+`;
