@@ -9,7 +9,8 @@
  - CSS Modules;
  - Recoil;
  - react-router-dom;
- - Testes react-testing-library
+ - Testes react-testing-library;
+ -just-shuffle
 
 
  ## Para executar a aplicação voce precisará:
