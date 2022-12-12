@@ -1,0 +1,41 @@
+html {
+    background: #4B69FD;
+    border: 2px solid black;
+    font-family: 'Poppins', sans-serif;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 120px;
+}
+
+.imagemLogo {
+    background-image: url("/public/imagens/logo.png");
+    width: 351px;
+    height: 117px;
+}
+
+.participante {
+    z-index: 1;
+}
+
+@media screen and (max-width: 800px) {
+    .cabecalho {
+        padding-top: 60px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .imagemLogo {
+        background-image: url("/public/imagens/logo-pequeno.png");
+        width: 235px;
+        height: 199px;
+    }
+}
