@@ -50,6 +50,10 @@ exports[`a pagina Home deve ser redenizada corretamente 1`] = `
         >
           Iniciar brincadeira
         </button>
+        <img
+          alt="Sacolas de compras"
+          src="/imagens/sacolas.png"
+        />
       </footer>
     </section>
   </div>
