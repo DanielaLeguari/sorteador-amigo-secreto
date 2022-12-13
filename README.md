@@ -30,7 +30,7 @@
 ![](./imagens/sorteio-desk.png)
 
 
-- Páginas da Aplicação para Mobile
+# Páginas da Aplicação para Mobile
 
 
 ### Home
