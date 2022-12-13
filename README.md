@@ -19,7 +19,7 @@
   - Executar o projeto `npm start`;
 
 
-- Páginas da Aplicação para Desktop
+# Páginas da Aplicação para Desktop
 
 ### Home
 
